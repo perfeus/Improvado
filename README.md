@@ -26,4 +26,4 @@
 
 
 To see the results of the project, please follow the link of [dashboard](https://lookerstudio.google.com/reporting/726a88e0-5eaa-496e-aafe-c1f69a191071) and
-[dbt Cloud](https://cloud.getdbt.com/settings/accounts/179359)
+[dbt Cloud](https://cloud.getdbt.com/develop/179359/projects/263354)
